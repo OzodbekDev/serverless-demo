@@ -2,6 +2,16 @@
 
 A simple demonstration of serverless architecture using Vercel.
 
+## 🚀 Live Demo
+
+**URL:** https://serverless-demo-kappa.vercel.app
+
+**API Endpoint:** https://serverless-demo-kappa.vercel.app/api/hello
+
+## Screenshot
+
+![Serverless Demo](screenshots/demo.png)
+
 ## Project Structure
 
 ```

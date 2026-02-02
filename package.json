@@ -1,0 +1,11 @@
+{
+  "name": "serverless-demo",
+  "version": "1.0.0",
+  "description": "A simple serverless function demo using Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": ["serverless", "vercel", "api"],
+  "author": "",
+  "license": "MIT"
+}
